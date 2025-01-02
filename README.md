@@ -2,6 +2,10 @@
 
 Bienvenidos al repositorio de la Landing Page de **Caroline Sada**. Este proyecto presenta una página web diseñada para ofrecer información sobre Caroline Sada, su experiencia en el mundo financiero, y su propósito de compartir conocimientos sobre finanzas y emprendimiento.
 
+## 🌐 Despliegue
+
+- Puedes verlo en: <a href="https://eduardoe92.github.io/CarolineSada/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a>
+
 ## Descripción
 
 La Landing Page está creada para mostrar de manera efectiva información sobre Caroline Sada, su trayectoria profesional, y su filosofía de vida. La página incluye secciones clave como:
@@ -28,6 +32,10 @@ Este proyecto fue desarrollado utilizando las siguientes tecnologías:
 # Caroline Sada - Landing Page
 
 Welcome to the repository for **Caroline Sada**'s Landing Page. This project features a website designed to provide information about Caroline Sada, her experience in the financial world, and her mission to share knowledge about finance and entrepreneurship.
+
+## 🌐 Deployment
+
+- You can view it at <a href="https://eduardoe92.github.io/CarolineSada/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a>
 
 ## Description
 
